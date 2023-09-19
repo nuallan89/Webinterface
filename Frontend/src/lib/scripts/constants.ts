@@ -1,4 +1,4 @@
-export const BASE_PATH = "http://144.91.103.235:3000"
+export const BASE_PATH = "https://api.dracon.host"
 export const INVITE_URL = "https://discord.com/api/oauth2/authorize?client_id=798211317961326624&permissions=8&scope=bot"
 
 export function get(path: string) {
